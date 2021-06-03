@@ -1,7 +1,7 @@
 {
   "name": "assignment",
   "version": "0.1.0",
-  "homepage": "https://rahul852745.github.io/calculator-app-using-reactjs/",
+  "homepage": "https://Rahul852745.github.io/calculator-app-using-reactjs/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
