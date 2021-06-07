@@ -22,7 +22,7 @@ class Calculator extends React.Component {
     }
 
     // our method to handle all click events from our buttons
-handleClick(event){
+    handleClick(event){
 
     // get the value from the target element (button)
     const value = event.target.value;
